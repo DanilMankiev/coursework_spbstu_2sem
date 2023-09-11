@@ -1,0 +1,11 @@
+﻿  MyString.cpp
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(23,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(30,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(31,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(39,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(40,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(60,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(66,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\PROJECT\coursework2\coursework2\logics\MyString.cpp(73,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  coursework2.vcxproj -> E:\PROJECT\coursework2\x64\Debug\coursework2.exe
